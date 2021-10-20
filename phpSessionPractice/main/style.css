@@ -1,0 +1,19 @@
+
+
+.background_red{
+    background: #cc0000;
+    height: 1000px;
+    width: 1000px;
+}
+
+.background_green{
+    background: #00b427;
+    height: 100%;
+    width: 100%;
+}
+
+.background_white{
+    background: #ffffff;
+    height: 100%;
+    width: 100%;
+}
